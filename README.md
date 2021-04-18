@@ -1,2 +1,2 @@
 # SecadorIndustrial
-Projeto de disciplina secador industrial com arduino utilizando PWM
+Projeto de disciplina Sistemas Digitais. Um secador industrial com arduino utilizando PWM
